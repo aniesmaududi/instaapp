@@ -1,0 +1,18 @@
+Tutorial membat login/register 
+
+https://mfikri.com/artikel/login-register-codeigniter4
+https://mfikri.com/artikel/crud-codeigniter-modal
+
+
+
+Modul:
+- Register : done
+- Login : done
+- Ads : 
+  - search default (Page Posts): done, add lazyload
+  	- try more data using fbscrape python
+  	- find other way for scrapping
+  - search FB Ads Library API
+- User Profile
+- User Subscription
+- RESTapi
